@@ -2,7 +2,7 @@
 # Rx Counter
 
 This is a UIKit project using reactive programming with RxSwift and MVVM design pattern and UnitTests for testing the ViewModel
-It is a simple counter app for increasing decreasing and reseting to demonstrate a sample example of  RxSwift
+It is a simple counter app for increasing decreasing and reseting acounter value to demonstrate a sample example of  RxSwift
 
 ## Topics Covered
 
