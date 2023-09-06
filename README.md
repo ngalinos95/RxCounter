@@ -27,6 +27,9 @@ It is a simple counter app for increasing decreasing and reseting to demonstrate
 
 - [@nikosgalinos]
 
+## Demo
+![](https://github.com/ngalinos95/RxCounter/blob/main/RxCounter.png)
+
 
 
 
