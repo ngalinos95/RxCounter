@@ -2,7 +2,7 @@
 //  CounterViewModelTest.swift
 //  Rx CounterTests
 //
-//  Created by Nikos Galinos, Vodafone on 5/9/23.
+//  Created by Nikos Galinos,   on 5/9/23.
 //
 
 import XCTest

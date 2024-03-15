@@ -2,7 +2,7 @@
 //  CounterViewModel.swift
 //  Rx Counter
 //
-//  Created by Nikos Galinos, Vodafone on 4/9/23.
+//  Created by Nikos Galinos,   on 4/9/23.
 //
 
 import Foundation
